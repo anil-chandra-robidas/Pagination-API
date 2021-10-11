@@ -1,0 +1,20 @@
+{
+  "name": "pagination",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "build": "tailwindcss -i style.css -o app.css",
+    "prod": "NODE_ENV=production npx  tailwindcss -i style.css -o app.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "postcss": "^8.3.9",
+    "tailwindcss": "^2.2.16"
+  },
+  "dependencies": {
+    "win-node-env": "^0.4.0"
+  }
+}

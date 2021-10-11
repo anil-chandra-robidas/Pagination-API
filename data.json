@@ -1,0 +1,62 @@
+[
+    {
+        "id": 0,
+        "name": "anil kumar",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 30
+    },
+    {
+        "id": 1,
+        "name": "salman khan",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 50
+    },
+    {
+        "id": 2,
+        "name": "amir khan",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 80
+    },
+    {
+        "id": 3,
+        "name": "ranbir kapoor",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 30
+    },
+    {
+        "id": 4,
+        "name": "shreya ghosal",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 50
+    },
+    {
+        "id": 5,
+        "name": "pritom hasan",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 80
+    },
+    {
+        "id": 6,
+        "name": "protik ray",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 50
+    },
+    {
+        "id": 7,
+        "name": "badshah khanna",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 80
+    },
+    {
+        "id": 8,
+        "name": "arijit singh",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 30
+    },
+    {
+        "id": 9,
+        "name": "udit naraon",
+        "url": "https://via.placeholder.com/350x150",
+        "age": 30
+    }
+]

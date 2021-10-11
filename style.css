@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .pagi-thumbnail {
+        @apply border border-gray-300 p-3 pb-5 bg-purple-500;
+    }
+    .username {
+        @apply text-2xl capitalize text-white font-bold;
+    }
+    .userage {
+        @apply text-white text-lg;
+    }
+    .pagi-image {
+        @apply mb-5 h-72 w-full;
+    }
+    .pagi-content-wrapper {
+        @apply grid grid-cols-3 gap-4 mb-4;
+    }
+    .pagi-heading {
+        @apply text-center text-5xl pt-5 pb-10;
+    }
+    .recall {
+        @apply mr-2 bg-purple-500 text-white w-8 h-8 leading-8 block text-center;
+    }
+}
